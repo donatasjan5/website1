@@ -18,7 +18,7 @@ function Cards() {
                  <CardItem
                 src="images/img-8.jpg"
                 text="Challenge yourself in 8 hour hike in Sahara desert"
-                label="Adventure"
+                label="Hiking"
                 path="/services"
                 />
                  <CardItem
