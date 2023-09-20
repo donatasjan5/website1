@@ -15,6 +15,30 @@ function Cards() {
                 label="Adventure"
                 path="/services"
                 />
+                 <CardItem
+                src="images/img-8.jpg"
+                text="Challenge yourself in 8 hour hike in Sahara desert"
+                label="Adventure"
+                path="/services"
+                />
+                 <CardItem
+                src="images/img-2.jpg"
+                text="Unforgettable 10 days trip to Bora Bora"
+                label="Luxury"
+                path="/services"
+                />
+                 <CardItem
+                src="images/img-1.jpg"
+                text="Have you ever dreamed of reach the top of the World? Climb mount Tibidabo"
+                label="Hiking"
+                path="/services"
+                />
+                 <CardItem
+                src="images/img-5.jpg"
+                text="Unforgetable night in the center of Miami with dinner"
+                label="Hotels"
+                path="/services"
+                />
             </ul>
         </div>
       </div>
